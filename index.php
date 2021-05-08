@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div class="container background">
+        <div class="text-center pt-5">
+            <img src="assets/img/maintenance.gif" width="250px" alt="">
+        </div>
+        <div class="text-center">
+            <h5 class="fw-bold">Selamat Datang di <span>Elehome!</span></h5>
+            <p style="letter-spacing: 2px;">(Electronic Home Service)</p>
+        </div>
+        <ul>
+            <li class="py-1"><img src="assets/img/check.png" width="15px" alt=""> Pesan Jasa Service Jarak Jauh</li>
+            <li class="py-1"><img src="assets/img/check.png" width="15px" alt=""> Teknisi Profesional</li>
+            <li class="py-1"><img src="assets/img/check.png" width="15px" alt=""> Menghemat waktu dan tenaga</li>
+            <li class="py-1"><img src="assets/img/check.png" width="15px" alt=""> Biaya lebih ekonomis</li>
+            <li class="py-1"><img src="assets/img/check.png" width="15px" alt=""> Pesan dimana saja</li>
+        </ul>
+
+
+        <button class="mulai btn">Mulai</button>
+    </div>
+</body>
+
+</html>

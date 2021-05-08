@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "poppins";
+}
+body {
+  max-width: 366px;
+  margin: 0 auto;
+  font-size: 12px;
+
+  .background {
+    margin-top: 10px;
+    padding: 20px;
+    box-shadow: 0px 3px 6px black;
+    border-radius: 15px;
+
+    h2 {
+      span {
+        text-transform: uppercase;
+      }
+    }
+
+    ul {
+      li {
+        list-style: none;
+      }
+    }
+
+    button.mulai {
+      background: #2399ee;
+      color: white;
+      width: 100%;
+      padding: 10px;
+      margin-top: 50px;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+      font-weight: bold;
+      border-radius: 50px;
+    }
+  }
+}
